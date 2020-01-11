@@ -1,4 +1,4 @@
-# flutter_clock_temp
+# flutter_clock
 
 A new Flutter project.
 
